@@ -1,4 +1,4 @@
-# Site sobre uma clínica
+# Site para clínica médica
 
 
 ## Módulo 02 - HTML I - Conceitos Básicos
