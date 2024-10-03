@@ -1,4 +1,6 @@
-# Desafio Dio 2 
+# Site sobre uma clínica
+
+
 ## Módulo 02 - HTML I - Conceitos Básicos
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vi neste módulo. Os temas abordados forão:
